@@ -339,3 +339,5 @@ sudo sh /opt/vim_runtime/install_awesome_parameterized.sh /opt/vim_runtime --all
 
 
 # fzf install and intergrated
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+~/.fzf/install
